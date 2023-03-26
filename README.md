@@ -8,6 +8,8 @@ This is a template to be used for a quick Javascript setup that includes
 - GitHub actions
 - Proper build output with typedefs
 
+The idea behind this was because I like to be able to quickly get a basic Javascript project up and running.
+
 ⚠️ Don't forget to update the repository package name, description, author, and license
 
 Squashing all commits can be done with the following commands:
