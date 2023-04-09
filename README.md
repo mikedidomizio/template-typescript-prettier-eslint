@@ -1,10 +1,10 @@
-# Quick template with Typescript/Prettier/ESLint/Jest
+# Quick template with Typescript/Prettier/ESLint/Vitest
 
 This is a template to be used for a quick Javascript setup that includes
 
 - Typescript
 - Prettier/ESLint
-- Jest
+- Vitest
 - GitHub actions
 - Proper build output with typedefs
 
