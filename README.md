@@ -1,4 +1,4 @@
-# Quick template with Typescript/Prettier/ESLint/Vitest
+# Quick starter template with Typescript/Prettier/ESLint/Vitest
 
 This is a template to be used for a quick Javascript setup that includes
 
