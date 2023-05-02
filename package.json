@@ -6,6 +6,7 @@
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
+    "lint": "eslint src/**/*",
     "test": "vitest ./src"
   },
   "author": "Mike DiDomizio",
