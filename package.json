@@ -7,20 +7,20 @@
   "scripts": {
     "start": "tsx ./src/index.ts",
     "build": "tsc",
-    "lint": "eslint src/**/*",
+    "lint": "eslint src --fix",
     "test": "vitest ./src"
   },
   "author": "Mike DiDomizio",
   "license": "ISC",
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.48.0",
-    "@typescript-eslint/parser": "^5.48.0",
-    "eslint": "^8.31.0",
-    "eslint-config-prettier": "^8.6.0",
-    "eslint-plugin-prettier": "^4.2.1",
-    "prettier": "^2.8.1",
+    "@eslint/js": "^9.0.0",
+    "eslint": "^9.0.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "prettier": "^3.0.0",
     "tsx": "^4.19.4",
-    "typescript": "^4.9.4",
+    "typescript": "^5.0.0",
+    "typescript-eslint": "^8.0.0",
     "vitest": "^0.30.0"
   }
 }
