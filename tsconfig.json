@@ -1,14 +1,16 @@
 {
   "compilerOptions": {
     "declaration": true,
-    "module": "commonjs",
+    "module": "nodenext",
     "esModuleInterop": true,
-    "target": "es5",
-    "moduleResolution": "node",
+    "target": "es2022",
+    "moduleResolution": "NodeNext",
     "sourceMap": true,
-    "outDir": "dist"
+    "outDir": "dist",
+    "strict": true,
+    "lib": ["es2022"],
+    "skipLibCheck": true
   },
-  "lib": ["es2015"],
   "exclude": [
     "node_modules",
     "dist",
